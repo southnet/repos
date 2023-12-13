@@ -1,0 +1,20 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Purple"
+        }
+    ],
+    "date": "2023-12-13",
+    "description": "#1 NFT image",
+    "image": "https://github.com/southnet/repos/blob/main/log1.png",
+    "name": "the logo coin nft image"
+}
